@@ -1,8 +1,32 @@
 @font-face {
   font-family: "Helvetica";
   src: url(/fonts/HelveticaNeue-Medium.otf) format("opentype");
+  font-weight: normal;
+  font-style: normal;
 }
+@font-face {
+  font-family: "Helvetica";
+  src: url(/fonts/HelveticaNeue-Bold.otf) format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Helvetica";
+  src: url(/fonts/HelveticaNeue-Italic.otf) format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: "Helvetica";
+  src: url(/fonts/HelveticaNeue-Light.otf) format("opentype");
+  font-weight: lighter;
+  font-style: normal;
+}
+
 h1 { font-family: "Helvetica", sans-serif }
+a { font-family: "Helvetica", sans-serif }
+
+
 
 h1 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
 h3 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } 
