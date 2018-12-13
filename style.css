@@ -2,4 +2,34 @@
   font-family: "Helvetica";
   src: url(/fonts/HelveticaNeue-Medium.otf) format("opentype");
 }
-h1 { font-family: "Helvetica", sans-serif }
+
+#title {
+   width: 50%;
+   font-family: Helvetica;
+   font-size: 30;
+}
+
+#navbar {
+   width: 50%;
+   font-family: Helvetica;
+   font-size: 30;
+}
+
+a.navbar:link {
+    text-decoration: none;
+	color: #EB3333;
+}
+a.navbar:visited {
+    text-decoration: none;
+	color: #EB3333;
+}
+a.navbar:hover {
+    text-decoration: none;
+	color: #000000;
+}
+a.navbar:active {
+    text-decoration: none;
+	color: #000000;
+}
+
+
