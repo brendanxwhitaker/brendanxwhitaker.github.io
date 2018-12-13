@@ -1,8 +1,6 @@
 @font-face {
   font-family: "Helvetica";
   src: url(/fonts/HelveticaNeue-Medium.otf) format("opentype");
-  font-weight: normal;
-  font-style: normal;
 }
 
 #title {
@@ -18,12 +16,14 @@
 }
 
 a.navbar:link {
-    text-decoration: none;
+    	text-decoration: none;
 	color: #EB3333;
+	text-color: #000000;
 }
 a.navbar:visited {
     text-decoration: none;
 	color: #EB3333;
+	text-color: #000000;
 }
 a.navbar:hover {
     text-decoration: none;
