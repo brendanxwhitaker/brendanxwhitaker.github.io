@@ -26,6 +26,25 @@
 h1 { font-family: "Helvetica", sans-serif }
 a { font-family: "Helvetica", sans-serif }
 
+a:link {
+  font-family: "Helvetica", sans-serif
+}
+
+/* visited link */
+a:visited {
+  font-family: "Helvetica", sans-serif
+}
+
+/* mouse over link */
+a:hover {
+  font-family: "Helvetica", sans-serif
+}
+
+/* selected link */
+a:active {
+  font-family: "Helvetica", sans-serif
+}
+
 
 
 h1 { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } 
